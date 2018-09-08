@@ -1,0 +1,10 @@
+.idea/
+cmake-build-debug/
+*.exe
+*.d
+*.o
+*.rar
+UDP_NAT_p2p/.vs
+UDP_NAT_p2p/x64/
+UDP_NAT_p2p/Server/x64/
+UDP_NAT_p2p/Client/x64/
